@@ -1,0 +1,9 @@
+.img {
+    width: 150px;
+    height: 150px;
+}
+
+.main_div{
+    display: flex;
+    flex-wrap: wrap;
+}
