@@ -1,0 +1,19 @@
+
+.image {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.main_div{
+    display: flex;
+}
+
+.cart_photo {
+  width: 100px;
+  height: 100px;
+}
+.cart_img {
+   width: 100px;
+  height: 100px;
+}
